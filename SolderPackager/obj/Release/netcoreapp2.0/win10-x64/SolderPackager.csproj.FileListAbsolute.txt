@@ -1,0 +1,13 @@
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/hostpolicy.dll
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/hostfxr.dll
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/SolderPackager.exe
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/SolderPackager.deps.json
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/SolderPackager.runtimeconfig.json
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/SolderPackager.runtimeconfig.dev.json
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/SolderPackager.dll
+/Users/goncalo/Projects/SolderPackager/SolderPackager/bin/Release/netcoreapp2.0/win10-x64/SolderPackager.pdb
+/Users/goncalo/Projects/SolderPackager/SolderPackager/obj/Release/netcoreapp2.0/win10-x64/SolderPackager.csproj.CoreCompileInputs.cache
+/Users/goncalo/Projects/SolderPackager/SolderPackager/obj/Release/netcoreapp2.0/win10-x64/SolderPackager.AssemblyInfoInputs.cache
+/Users/goncalo/Projects/SolderPackager/SolderPackager/obj/Release/netcoreapp2.0/win10-x64/SolderPackager.AssemblyInfo.cs
+/Users/goncalo/Projects/SolderPackager/SolderPackager/obj/Release/netcoreapp2.0/win10-x64/SolderPackager.dll
+/Users/goncalo/Projects/SolderPackager/SolderPackager/obj/Release/netcoreapp2.0/win10-x64/SolderPackager.pdb

@@ -1,4 +1,4 @@
-# StormPackager 
+# SolderPackager 
 Version 1.0, built with .NET Core and C#
 
 ## How to use
